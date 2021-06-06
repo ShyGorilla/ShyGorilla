@@ -4,9 +4,8 @@
 
 
 - 🇦🇪 I’m Emirati Coder
-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-- 🎓 &nbsp;I'm currently studying Information Security.\
-- ✍️ &nbsp;In Like to learn coding and creating new tools.
+- 💡 &nbsp;I like to explore new technologies and develop tools and quick hacks.
+- 🎓 &nbsp;I'm currently studying Information Security.
 
 - ### 💻 Operating System
 
