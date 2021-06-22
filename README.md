@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg">
 
 
-- 🇦🇪 I’m Emirati Coder
+- <img width="25" high="15" alt="Screen Shot 2021-06-17 at 8 14 48 PM" src="https://user-images.githubusercontent.com/73632576/123008345-c7de7980-d3cb-11eb-84f1-5ab658eca7f5.gif"> I’m Emirati Coder
 - 💡 &nbsp;I like to explore new technologies and develop tools and quick hacks.
 - 🎓 &nbsp;I'm currently studying Information Security.
 
